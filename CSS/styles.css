@@ -53,7 +53,7 @@ p{
 .bottom-cloud{
   position: absolute;
   left: 200px;
-  bottom: 30px;
+  top: 30px;
 }
 .top-cloud{
   position: absolute;
